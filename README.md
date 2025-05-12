@@ -16,15 +16,6 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 
 ---
 
-## Data Model
-![Data Model](docs/data_model.png)
-
----
-
-### Data Integration
-![Data Integration](docs/data_integration.png)
-
----
 
 ## Project Overview
 
@@ -53,6 +44,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 ---
+
 
 ### BI: Analytics & Reporting (Data Analysis)
 
